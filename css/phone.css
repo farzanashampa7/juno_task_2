@@ -1,0 +1,19 @@
+
+#home {
+    
+    width: 100%;
+    position: relative;
+}
+#home img {
+    
+    width: 100%;
+}
+
+#bottom-container {
+    background-color: #d64c31;
+    position: relative;
+    bottom: 112px;
+    left: 468px;
+    height: 300px;
+    width: 1233px;
+}
