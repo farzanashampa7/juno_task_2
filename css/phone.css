@@ -1,19 +1,51 @@
 
 #home {
-    
-    width: 100%;
     position: relative;
 }
-#home img {
-    
-    width: 100%;
+
+#logo img{
+    height:70px;
+    margin: 45px 40px 25px 90px;
+}
+
+#home img{
+    width: auto;
 }
 
 #bottom-container {
     background-color: #d64c31;
+    position: absolute;
+    bottom: -112px;
+    left: 200px;
+    height:30%;
+    width:300px;
+    
+    
+}
+
+#section1 {
+    height: auto;
+    width: 115%;
+    /*margin: 171px 123px 60px 45px;*/
+}
+
+#section2 {
+    background-color: #fff0e7;
+    margin-top: 65px;
+    /*padding: 0px 29px 113px 90px;*/
+    width: 380%;
+}
+
+#bottom {
     position: relative;
-    bottom: 112px;
-    left: 468px;
-    height: 300px;
-    width: 1233px;
+    width: 410%;
+}
+
+#bottom .contact {
+    background-color: #4a455c;
+    position: absolute;
+    right: 87px;
+    top: -34.5px;
+    height: 109%;
+    width: 38%;
 }
