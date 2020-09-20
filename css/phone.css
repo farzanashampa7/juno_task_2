@@ -3,9 +3,7 @@ header{
 }
 
 #logo{
-    width:87%;
-    height:auto;
-    margin: 31px 18px 15px 55px;
+    width:auto;
     
 }
 
@@ -16,7 +14,7 @@ header{
 
 #nav-bar ul li a{
     padding: 7px 15px;
-    font-size: 20px;
+    font-size: 1.3rem;
 }
 
 #home img{
@@ -31,20 +29,20 @@ header{
     bottom: 69px;
     left: 81%;
     width: 210%;
-    height: 25%;
+    height: auto;
     
 }
 
 #bottom-container h1{
     margin: 0px 0px 0px 41px;
     padding: 20px 0px 0px 12px;
-    font-size: 67px;
+    font-size: 6.0rem;
 }
 
 #bottom-container p{
     margin-left: 61px;
     margin-top: 0px;
-    font-size: 16px; 
+    font-size: 1.3em; 
     padding-right: 40px;
     padding-bottom: 27px;
     line-height: 35px;
@@ -58,24 +56,12 @@ header{
 
 #heading{
     padding: 0px 28px 6px;
-    font-size: 83px;
+    font-size: 5.5em;
 
 }
 
 #containerbig{
     margin: 0px 12px 35px 20px;
-}
-
-.date{
-    font-size: 18px;
-}
-
-.heading1{
-    font-size:28px;
-}
-
-.heading0{
-    font-size: 28px;
 }
 
 #section2{
@@ -90,13 +76,13 @@ header{
 }
 
 .text{
-    font-size:16px;
+    font-size:20px;
     line-height: 35px;
 
 }
 
 .text0{
-    font-size:16px;
+    font-size:20px;
     line-height: 35px;
 }
 
@@ -115,7 +101,7 @@ header{
 
 #heading3{
     padding: 22px 25px;
-    font-size: 80px;
+    font-size: 5.5em;
 }
 
 .container3{
