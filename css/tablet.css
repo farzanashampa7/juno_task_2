@@ -1,67 +1,147 @@
 
+header{
+    width: auto;
+}
 
-#home {
-    height: 790px;
-    width: 1836px;
+#logo{
+    width:36%;
+    height:auto;
+    margin: 31px 18px 15px 33px;
+    
+}
+
+#nav-bar ul{
+    padding: 0px;
+    margin: 13px 0px 9px 0px;
+}
+
+#nav-bar ul li a{
+    padding: 15px 20px;
+    font-size: 28px;
+}
+
+#sectiontop {
+    height: 890px;
+}
+
+#home img{
     position: relative;
+    width:144%;
+    
 }
 
-#home img {
-    height: 790px;
-    width: 1836px;
-}
-
-#bottom-container {
-    background-color: #d64c31;
+#bottom-container{
+    background-color: #d64c31; 
     position: relative;
-    bottom: 112px;
-    left: 654px;
-    height: 300px;
-    width: 1181px;
+    bottom: 86px;
+    left: 44%;
+    width: auto;
+    height: 30%;
+    
+    }
+
+#bottom-container h1{
+    margin: 0px 0px 0px 41px;
+    padding: 20px 0px 0px 12px;
+    font-size: 83px;
 }
 
-#section1 {
+#bottom-container p{
+    margin-left: 61px;
+    margin-top: 0px;
+    font-size: 19px; 
+    padding-right: 40px;
+    padding-bottom: 27px;
+}
+
+#section1{
+    margin: 0px 12px 0px 12px;
+    width: 141%;
+}
+
+#heading{
+    padding: 25px 28px 6px;
+    font-size: 83px;
+
+}
+
+#containerbig{
+    margin: 0px 12px 35px 20px;
+}
+
+.date{
+    font-size: 23px;
+}
+
+.heading1{
+    font-size:34px;
+}
+
+.heading0{
+    font-size: 34px;
+}
+
+#section2{
+    width: 144%;
+    padding: 0px 0px;    
+    
+}
+
+.container3{
+    margin: 0px 35px;
+ 
+ }
+
+#heading3{
+    padding: 28px 50px;
+    font-size: 81px;
+
+}
+
+.date2{
+    font-size: 23px;
+}
+
+.heading2{
+    font-size:34px;
+    line-height: 35px;
+}
+
+.text2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px;
+    color: #4a455c;
+
+}
+
+.content{
+    padding: 5px 34px;
+}
+
+.content0{
+    padding: 15px 34px;
+}
+
+.content1{
+    padding: 0px 34px;
+    
+}
+
+#bottom{
     height: auto;
-    width: 1626px;
-    margin:  171px 50px 120px 115px;
-}
-
-#section2 {
-    background-color: #fff0e7;
-    margin-top: 65px;
-    padding: 0px 29px 113px 163px;
-    width: 1644px;
-}
-
-#bottom {
+    width: 144%;
     position: relative;
-    width: 1835px;
+    
 }
 
-.box {
-    width: 461px;
-    margin: 32px 20px;
+.content3{
+    padding: 20px 57px;
 }
 
-.box img{
-    width: 461px;
+#bottom .contact{
+    height: 108%;
 }
 
-#div1 {
-    margin: 10px 0px 10px 90px;
-    width: 964px;
-}
-
-#div1 img{
-    width: 964px;
-}
-
-.box2 {
-    margin: 0px 25px;
-    background-color: white;
-    width: 461px;
-}
-
-.box2 img{
-    width: 461px;
+.content4{
+    padding-top: 12px;
 }
