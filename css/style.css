@@ -10,7 +10,7 @@ body{
 
 #logo {
     height:50%;
-    margin: 32px 14px 19px 40px;
+    margin: 42px 44px 19px 65px;
     width:auto;
 }
 
@@ -26,11 +26,12 @@ body{
 }
 #nav-bar ul li a{
     display: block;
-    padding: 5px 14px;
+    padding: 5px 16px;
     text-decoration: none;
-    font-size: 22px;
+    font-size: 24px;
+    font-weight: 700;
     color: #4a455c;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
 }
 
 #nav-bar ul li a:hover{
@@ -42,52 +43,6 @@ body{
     width: 100%;
     height:auto;
 }
-
-/*@media screen and (min-width: 420px) and (max-width: 510px){
-    #sectiontop{
-        position: relative;
-        width: 100%;
-        height:931px;
-    }
-}
-
-@media screen and (min-width: 511px) and (max-width: 580px){
-    #sectiontop{
-        position: relative;
-        width: 100%;
-        height:1063px;
-    }
-}
-
-@media screen and (min-width: 581px) and (max-width: 648px){
-    #sectiontop{
-        position: relative;
-        width: 100%;
-        height:1200px;
-    }
-}
-
-@media screen and (min-width: 649px) and (max-width: 767px){
-    #sectiontop{
-        position: relative;
-        width: 100%;
-        height:1448px;
-    }
-
-    #bottom-container h1{
-        margin: 0px 0px 0px 41px;
-        padding: 20px 0px 0px 12px;
-        font-size: 98px;
-    }
-    
-    #bottom-container p{
-        margin-left: 61px;
-        margin-top: 0px;
-        font-size: 31px; 
-        padding-right: 40px;
-        padding-bottom: 27px;
-    }
-}*/
 
 #home img{
     position: relative;
@@ -105,16 +60,16 @@ height: auto;
 }
 
 #bottom-container h1{
-    margin: 0px 0px 0px 15px;
-    padding: 28px 0px 6px 12px;
+    margin: 0px 0px 0px 30px;
+    padding: 23px 0px 6px 30px;
     font-family: 'Cormorant Garamond', serif;
     font-weight: lighter;
-    font-size: 6.0rem;
+    font-size: 110px;
     color: white;
 }
 
 #bottom-container p{
-    margin-left: 50px;
+    margin-left: 61px;
     margin-top: 0px;
     color: white;
     font-family: 'Montserrat', sans-serif;
@@ -126,7 +81,7 @@ height: auto;
 }
 
 #section1{
-    margin: 0px 20px;
+    margin: 0px 20px 60px;
 }
 
 #heading{
@@ -135,7 +90,7 @@ height: auto;
     font-size: 110px;
     font-weight: lighter;
     color: #4a455c;
-    margin-block-start: 0.1em;
+    margin-block-start: 0.0em;
     margin-block-end: 0.1em;
     margin-bottom: 19px;
 
@@ -166,7 +121,7 @@ height: auto;
 .content{
     background-color: #4a455c;
     color: white;
-    padding: 5px 22px;
+    padding: 5px 30px;
     height: auto;
 }
 .content p{
@@ -198,7 +153,7 @@ height: auto;
 
 .content0{
     background-color: #7c7d98;
-    padding: 15px 23px;
+    padding: 15px 30px;
     color: white;
     width: auto;
 }
@@ -207,24 +162,31 @@ height: auto;
 .date{
     font-family:'Montserrat', sans-serif;
     font-weight: lighter;
-    font-size: 25px;
+    font-size: 20px;
     color: #fff0e7;
+    margin-bottom: 0px;
 }
 
 .heading1{
-    font-family: 'Montserrat', sans-serif;
-    font-size:40px;
+    font-family: 'Montserrat' , sans-serif;
+    font-size:38px;
+    font-weight: 500;
+    margin-block-start: 0.33em;
+    margin-block-end: 0.33em;
 }
 
 .heading0{
     font-family: 'Montserrat', sans-serif;
-    font-size: 40px;
+    font-size: 38px;
+    font-weight: 500;
     color: #fff0e7;
+    margin-block-start: 0.33em;
+    margin-block-end: 0.33em;
 }
 .text{
     font-family: 'Montserrat', sans-serif;
     font-size:20px;
-    color: #fff0e7;
+    color: #ffffff;
 }
 
 .text0{
@@ -243,7 +205,7 @@ height: auto;
     box-shadow: none;
     border-style: none;
     font-size: 22px;
-    margin-bottom: 38px;
+    margin-bottom: 60px;
 
 }
 
@@ -254,7 +216,7 @@ height: auto;
 
 #section2{
     background-color: #fff0e7;
-    padding: 0px 37px 0px 37px;    
+    padding: 0px 37px 40px 37px;    
     
 }
 .container3{
@@ -276,7 +238,7 @@ height: auto;
     height: auto;
 }
 .content1{
-    padding: 0px 18px;
+    padding: 0px 30px;
     
 }
 
@@ -298,7 +260,7 @@ height: auto;
 
 .date2{
     font-family:'Montserrat', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: lighter;
     color: #4a455c;
     margin-block-end: 0.33em;
@@ -309,7 +271,10 @@ height: auto;
 .heading2{
     font-family: 'Montserrat', sans-serif;
     color: #d64c31;
-    font-size:40px;
+    font-size:38px;
+    font-weight: 500;
+    margin-block-start: 0.33em;
+    margin-block-end: 0.33em;
 }
 
 .text2{
@@ -343,7 +308,7 @@ height: auto;
 
 .content3{
     background-color: #d64c31;
-    padding: 20px 46px;
+    padding: 20px 58px 20px 53px;
     color: white;
 }
 
@@ -355,6 +320,7 @@ height: auto;
     font-family: 'Montserrat', sans-serif;
     color: white;
     font-size: 30px;
+    margin-block-end: 0.0em;
 
 }
 
@@ -362,6 +328,7 @@ height: auto;
     font-family: 'Montserrat', sans-serif;
     font-size:18px;
     line-height: 35px;
+    margin-block-start: 0.5em;
 
 }
 
@@ -380,8 +347,9 @@ height: auto;
     display: block;
     padding: 5px 15px;
     text-decoration: none;
-    font-size: 23px;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    font-weight: 500;
     color: white;
 }
  
@@ -403,45 +371,57 @@ height: auto;
     position: absolute;
     right: 50px;
     top: -34.5px;
-    height: 109%;
+    height: 108.7%;
     width: 38%;
 }
 
 .content4{
-    padding-top: 40px;
+    padding-top: 10px;
     padding-left: 0px;
 }
 
 .heading5{
-    color: white;
+    color: #ffffff;
     padding-top: 30px;
     padding-left: 40px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .form-item{
     padding: 0px 10px 18px 40px;
-    border-style: none;
+    
+    
 }
 
 #form-text{
-    padding:15px 10px 15px 20px;
+    padding:14px 44px 14px 20px;
     text-align: left;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
+    font-weight: 500;
+    border-radius: 4px;
+    border-style: none;
     
 
 }
 
 #btn3{
-    margin: -10px 40px;
+    margin: 0px 40px;
     padding: 15px 25px;
-    background-color: #e7ccbb;
+    background-color: #ecba9b;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
+    font-weight: 500;
     color: black;
     border-style: none; 
+    border-radius: 4px;
+}
+
+#btn3:hover{
+    background-color: #ffffff;
+    color: #d64c31;
+    border-style: none;
 }
 
 .text4{
