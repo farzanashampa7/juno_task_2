@@ -1,3 +1,4 @@
+
 header{
     width: auto;
 }
@@ -20,6 +21,7 @@ header{
 #home img{
     position: relative;
     width:291%;
+    height: auto;
     
 }
 
