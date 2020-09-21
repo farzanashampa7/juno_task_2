@@ -157,24 +157,24 @@ header{
 
 .text3{
     font-family: 'Montserrat', sans-serif;
-    font-size:16px;
+    font-size: 1em;
     line-height: 35px;
 
 }
 
 .content3 ul li a{
     padding: 5px 14px;
-    font-size: 20px;
+    font-size: 1.3em;
 }
  
 #bottom-1{
-    font-size: 16px;
+    font-size: 0.9em;
 
 }
 
 .heading5{
     padding-left: 30px;
-    font-size: 28px;
+    font-size: 1.83m;
 }
 
 .form-item{
@@ -183,24 +183,24 @@ header{
 
 #form-text{
     padding:7px 0px 7px 15px;
-    font-size: 16px;
+    font-size: 1em;
 
 }
 
 #btn3{
     margin: -10px 31px;
-    padding: 4px 5px;
-    font-size: 16px;
+    padding: 6px 7px;
+    font-size: 1em;
     }
 
 .text4{
     margin: 23px 31px;
-    font-size: 16px;
+    font-size: 1em;
     line-height: 35px;
 }
 
 .fa-icons{
-    padding-inline-start: 17px;
+    padding-inline-start: 20px;
 }
 
 .fa-icons li{

@@ -131,10 +131,54 @@ header{
     padding: 20px 57px;
 }
 
+.text3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1em;
+    line-height: 35px;
+
+}
+
+.content3 ul li a{
+    font-size: 1.3em;
+}
+
+#bottom-1{
+    font-size: 0.9em;
+
+}
+
 #bottom .contact{
     height: 108.5%;
 }
 
 .content4{
     padding-top: 12px;
+}
+
+.heading5{
+    font-size: 1.8em;
+}
+
+
+#form-text{
+    font-size: 1em;
+
+}
+
+#btn3{
+    font-size: 1em;
+    }
+
+.text4{
+    font-size: 1em;
+    line-height: 35px;
+}
+
+.fa-icons{
+    padding-inline-start: 25px;
+}
+
+.fa-icons li{
+    list-style: none;
+    padding: 0px 10px;
 }
